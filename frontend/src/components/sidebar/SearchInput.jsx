@@ -4,7 +4,7 @@ import useConversation from "../../zustand/useConversation";
 import useGetConversations from "../../hooks/useGetConversations";
 import toast from "react-hot-toast";
 
-const Search = () => {
+const SearchInput = () => {
 	const [search, setSearch] = useState("");
 	const { setSelectedConversation } = useConversation();
 	const { conversations } = useGetConversations();
@@ -38,7 +38,7 @@ const Search = () => {
 		</form>
 	);
 };
-export default Search;
+export default SearchInput;
 
 // STARTER CODE SNIPPET
 // import { IoSearchSharp } from "react-icons/io5";
