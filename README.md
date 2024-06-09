@@ -7,7 +7,7 @@ Check out the application live [here](https://mernchat-prod.onrender.com).
 
 ## Description
 
-This MERN Chat Application is a comprehensive real-time chat solution, allowing users to engage in both individual and group conversations. With a focus on both functionality and aesthetics, the app provides a seamless user experience. The backend is designed to handle robust data management and user authentication, ensuring secure and efficient operation.
+This MERN Chat Application is a comprehensive real-time chat app, allowing users to engage in both individual and group conversations. With a focus on both functionality and aesthetics, the app provides a seamless user experience. The backend is designed to handle robust data management and user authentication, ensuring secure and efficient operation.
 
 ## Key Features
 
