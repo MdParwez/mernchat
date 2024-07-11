@@ -1,5 +1,5 @@
 ## Mern Chat App
-## This is a mern chat application Built Using React.js ,Node.js, Tailwind Css , Socket.io   
+## This is a mern chat application Built Using React.js ,Node.js, express.js, Tailwind Css , Socket.io   
 
 ## Live Demo
 
