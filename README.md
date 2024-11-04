@@ -3,7 +3,7 @@
 
 ## Live Demo
 
-Check out the application live [here](https://mernchat-prod.onrender.com).
+Check out the application live: [here](https://mernchat-prod.onrender.com).
 
 ## Description
 
