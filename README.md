@@ -1,4 +1,4 @@
-## Mern Chat Application:
+## Chat Application:
 ## A complete  Full Stack MERN chat application Built Using React.js ,Node.js, express, Tailwind Css , Socket.io  
 
 ## Live Demo
